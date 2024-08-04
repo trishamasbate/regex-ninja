@@ -6,6 +6,7 @@
 
 ## 📃 Description:
 
+In this tutorial, we'll explore a simple regex pattern designed to match hex values, typically used for color codes in web development. We’ll break down each component: the # symbol, the character classes for matching digits and letters, and the quantifiers that allow for both 3 and 6 character hex codes. By the end, you'll understand how each part of this regex contributes to accurately identifying valid hex values.
 
 ## 📌 Table of Contents
 - [🥷🏻 JavaScript Regex 101: From Novice to Ninja](#-javascript-regex-101-from-novice-to-ninja)
@@ -13,8 +14,7 @@
   - [📌 Table of Contents](#-table-of-contents)
   - [🔎 User Story](#-user-story)
   - [✅ Acceptance Criteria](#-acceptance-criteria)
-  - [💡 Usage and Installation Instructions](#-usage-and-installation-instructions)
-  - [🎞️ Previews and Walkthrough Videos:](#️-previews-and-walkthrough-videos)
+  - [💡 Usage](#-usage)
   - [🗝️ Resources](#️-resources)
   - [❓ Questions](#-questions)
   - [🪪 License](#-license)
@@ -39,55 +39,15 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
-## 💡 Usage and Installation Instructions
-✨ **Using Render:**
-
-[####]()
-
-✨ **Using the GitHub Repository:**
-
-1.  Provide your login credentials in the `.env` file.
-2.	Launch an integrated terminal directly from your editor.
-3.  Install the necessary packages to initialize the application. You can also execute the command `npm install`.
-    - [dotenv Version 8.6.0](https://www.npmjs.com/package/dotenv)
-    - [bycrypt Version 7.0.4](https://www.npmjs.com/package/bcrypt)
-    - [Express.js Version 4.17.1](https://www.npmjs.com/package/express)
-    - [Express Handlebars Version 5.2.0](https://www.npmjs.com/package/express-handlebars)
-    - [Express Session Version 1.17.1](https://www.npmjs.com/package/express-session)
-    - [pg Version 8.12.0](https://www.npmjs.com/package/pg)
-    - [Sequelize Version 6.29.3](https://www.npmjs.com/package/sequelize)
-    - [Connect Session Sequelize Version 7.0.4](https://www.npmjs.com/package/connect-session-sequelize)
-
-4.	Navigate the directory containing the database schema, and create a new database using the `psql` command.
-5.  Seed the created database with test data by executing the seed command as declared in the package.json file.
-6.	Run the `npm start` command to start the Express server.
-7.  Test the functionality of the application by using Render.
-
-
-## 🎞️ Previews and Walkthrough Videos:
-
-**Preview**
-![]() 
-
+## 💡 Usage
 **Click on the links below**
-- [####]()
-- [####]()
+- [Regex Tutorial: Matching a Hex Value](https://gist.github.com/trishamasbate/7e3f4c35fb028b55a8f684175c5dba4e)
 
 ## 🗝️ Resources
 - Dynamic JavaScript
 - License Badge: [Shields.io](https://shields.io/)
 - [Starter Code](https://github.com/coding-boot-camp/bug-free-goggles)
-- [dotenv Version 8.6.0](https://www.npmjs.com/package/dotenv)
-- [bycrypt Version 7.0.4](https://www.npmjs.com/package/bcrypt)
-- [Express.js Version 4.17.1](https://www.npmjs.com/package/express)
-- [Express Handlebars Version 5.2.0](https://www.npmjs.com/package/express-handlebars)
-- [Express Session Version 1.17.1](https://www.npmjs.com/package/express-session)
-- [pg Version 8.12.0](https://www.npmjs.com/package/pg)
-- [Sequelize Version 6.29.3](https://www.npmjs.com/package/sequelize)
-- [Connect Session Sequelize Version 7.0.4](https://www.npmjs.com/package/connect-session-sequelize)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
+- [Regex Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
 
 ## ❓ Questions
 Contact the author with any questions!<br>
